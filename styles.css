@@ -1,0 +1,51 @@
+body {
+    background-color:ivory;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color:plum;
+    border-width:7px;
+    background-color: ivory;
+    width:20%;
+}
+h3{
+    color: rgb(111, 190, 190);
+    text-align:center;
+}
+h1{
+    color: darkcyan;
+}
+.form-center {
+    display:flex;
+    justify-content: center;
+  }
+  h2{
+    color: palevioletred;
+    text-align:center;
+  }
+  .p-center{
+    text-align: center;
+  }
+.container {
+    text-align: center;
+}
+  
+.myul {
+    display: inline-block;
+    text-align: left;
+}
+.myol {
+    display: inline-block;
+    text-align: left;
+}
+.circleimg{
+    border-radius: 100%;
+}
+img:hover{
+    background-color:aquamarine;
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+}
